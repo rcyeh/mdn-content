@@ -36,7 +36,7 @@ background-blend-mode: difference;
 ```css interactive-example
 #example-element {
   background-color: green;
-  background-image: url("/media/examples/balloon.jpg");
+  background-image: url("/shared-assets/images/examples/balloon.jpg");
   width: 250px;
   height: 305px;
 }

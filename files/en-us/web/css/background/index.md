@@ -20,17 +20,19 @@ background: content-box radial-gradient(crimson, skyblue);
 ```
 
 ```css interactive-example-choice
-background: no-repeat url("../../media/examples/lizard.png");
+background: no-repeat url("../../shared-assets/images/examples/lizard.png");
 ```
 
 ```css interactive-example-choice
-background: left 5% / 15% 60% repeat-x url("../../media/examples/star.png");
+background: left 5% / 15% 60% repeat-x
+  url("../../shared-assets/images/examples/star.png");
 ```
 
 ```css interactive-example-choice
 background:
-  center / contain no-repeat url("../../media/examples/firefox-logo.svg"),
-  #eee 35% url("../../media/examples/lizard.png");
+  center / contain no-repeat
+    url("../../shared-assets/images/examples/firefox-logo.svg"),
+  #eee 35% url("../../shared-assets/images/examples/lizard.png");
 ```
 
 ```html interactive-example

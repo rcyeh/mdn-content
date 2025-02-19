@@ -31,7 +31,7 @@ backdrop-filter: sepia(90%);
 
 ```css interactive-example
 .example-container {
-  background-image: url("/media/examples/balloon.jpg");
+  background-image: url("/shared-assets/images/examples/balloon.jpg");
   background-size: cover;
   width: 200px;
   height: 200px;

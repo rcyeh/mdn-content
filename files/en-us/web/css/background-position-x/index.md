@@ -38,7 +38,7 @@ background-position-x: right 32px;
 ```css interactive-example
 #example-element {
   background-color: navajowhite;
-  background-image: url("/media/examples/star.png");
+  background-image: url("/shared-assets/images/examples/star.png");
   background-repeat: no-repeat;
   height: 100%;
 }

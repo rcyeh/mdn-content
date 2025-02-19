@@ -32,7 +32,7 @@ shape-outside: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
   <img
     class="transition-all"
     id="example-element"
-    src="/media/examples/round-balloon.png"
+    src="/shared-assets/images/examples/round-balloon.png"
     width="150" />
   We had agreed, my companion and I, that I should call for him at his house,
   after dinner, not later than eleven o’clock. This athletic young Frenchman

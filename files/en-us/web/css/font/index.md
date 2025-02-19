@@ -50,7 +50,7 @@ font: caption;
   font-family: "Fira Sans";
   src:
     local("FiraSans-Regular"),
-    url("/media/fonts/FiraSans-Regular.woff2") format("woff2");
+    url("/shared-assets/fonts/FiraSans-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -59,7 +59,7 @@ font: caption;
   font-family: "Fira Sans";
   src:
     local("FiraSans-Italic"),
-    url("/media/fonts/FiraSans-Italic.woff2") format("woff2");
+    url("/shared-assets/fonts/FiraSans-Italic.woff2") format("woff2");
   font-weight: normal;
   font-style: italic;
 }

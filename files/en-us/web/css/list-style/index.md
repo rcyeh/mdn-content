@@ -20,7 +20,7 @@ list-style: inside;
 ```
 
 ```css interactive-example-choice
-list-style: url("/media/examples/rocket.svg");
+list-style: url("/shared-assets/images/examples/rocket.svg");
 ```
 
 ```css interactive-example-choice
@@ -28,7 +28,7 @@ list-style: none;
 ```
 
 ```css interactive-example-choice
-list-style: georgian inside url("/media/examples/rocket.svg");
+list-style: georgian inside url("/shared-assets/images/examples/rocket.svg");
 ```
 
 ```css interactive-example-choice

@@ -12,16 +12,17 @@ The **`border-image`** [CSS](/en-US/docs/Web/CSS) property draws an image around
 {{InteractiveExample("CSS Demo: border-image")}}
 
 ```css interactive-example-choice
-border-image: url("/media/examples/border-diamonds.png") 30;
+border-image: url("/shared-assets/images/examples/border-diamonds.png") 30;
 ```
 
 ```css interactive-example-choice
-border-image: url("/media/examples/border-diamonds.png") 30 / 19px round;
+border-image: url("/shared-assets/images/examples/border-diamonds.png") 30 /
+  19px round;
 ```
 
 ```css interactive-example-choice
-border-image: url("/media/examples/border-diamonds.png") 30 fill / 30px / 30px
-  space;
+border-image: url("/shared-assets/images/examples/border-diamonds.png") 30
+  fill / 30px / 30px space;
 ```
 
 ```css interactive-example-choice
@@ -48,7 +49,8 @@ border-image: repeating-linear-gradient(30deg, #4d9f0c, #9198e5, #4d9f0c 20px)
   background: #fff3d4;
   color: #000;
   border: 30px solid;
-  border-image: url("/media/examples/border-diamonds.png") 30 round;
+  border-image: url("/shared-assets/images/examples/border-diamonds.png") 30
+    round;
   font-size: 1.2em;
 }
 ```

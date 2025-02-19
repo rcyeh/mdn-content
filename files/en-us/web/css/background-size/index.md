@@ -39,7 +39,7 @@ background-size: 200px 100px;
 
 ```css interactive-example
 #example-element {
-  background-image: url("/media/examples/hand.jpg");
+  background-image: url("/shared-assets/images/examples/hand.jpg");
   min-width: 100%;
   min-height: 100%;
 }

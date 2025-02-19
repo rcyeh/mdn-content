@@ -37,7 +37,8 @@ vertical-align: text-top;
 
 ```html interactive-example
 <p>
-  Align the star: <img id="example-element" src="/media/examples/star2.png" />
+  Align the star:
+  <img id="example-element" src="/shared-assets/images/examples/star2.png" />
 </p>
 ```
 

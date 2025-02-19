@@ -24,7 +24,7 @@ border-image-slice: 44;
 ```
 
 ```css interactive-example-choice
-border-image: url("/media/examples/border-florid.svg") round;
+border-image: url("/shared-assets/images/examples/border-florid.svg") round;
 border-image-slice: calc(50 / 184 * 100%) calc(80 / 284 * 100%) fill;
 border-image-width: 30px 48px;
 ```
@@ -44,7 +44,8 @@ border-image-width: 30px 48px;
   background: #fff3d4;
   color: #000;
   border: 30px solid;
-  border-image: url("/media/examples/border-diamonds.png") 30 round;
+  border-image: url("/shared-assets/images/examples/border-diamonds.png") 30
+    round;
   font-size: 1.2em;
 }
 ```

@@ -40,7 +40,7 @@ clip-path: xywh(0 5px 100% 75% round 15% 0);
   <img
     class="transition-all"
     id="example-element"
-    src="/media/examples/balloon-small.jpg"
+    src="/shared-assets/images/examples/balloon-small.jpg"
     width="150" />
   We had agreed, my companion and I, that I should call for him at his house,
   after dinner, not later than eleven o’clock. This athletic young Frenchman

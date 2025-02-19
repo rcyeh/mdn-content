@@ -12,11 +12,11 @@ The **`border-image-source`** [CSS](/en-US/docs/Web/CSS) property sets the sourc
 {{InteractiveExample("CSS Demo: border-image-source")}}
 
 ```css interactive-example-choice
-border-image-source: url("/media/examples/border-diamonds.png");
+border-image-source: url("/shared-assets/images/examples/border-diamonds.png");
 ```
 
 ```css interactive-example-choice
-border-image-source: url("/media/examples/border-stars.png");
+border-image-source: url("/shared-assets/images/examples/border-stars.png");
 ```
 
 ```css interactive-example-choice
@@ -46,7 +46,8 @@ border-image-source: none;
   background: #fff3d4;
   color: #000;
   border: 30px solid;
-  border-image: url("/media/examples/border-diamonds.png") 30 round;
+  border-image: url("/shared-assets/images/examples/border-diamonds.png") 30
+    round;
   font-size: 1.2em;
 }
 ```

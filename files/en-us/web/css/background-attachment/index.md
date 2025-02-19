@@ -59,8 +59,9 @@ background-attachment: scroll, local;
   max-width: 20rem;
   height: 100%;
   background:
-    url("/media/examples/lizard.png") right 3rem top 1rem / 15rem no-repeat,
-    url("/media/examples/moon.jpg") center / 10rem;
+    url("/shared-assets/images/examples/lizard.png") right 3rem top 1rem / 15rem
+      no-repeat,
+    url("/shared-assets/images/examples/moon.jpg") center / 10rem;
   color: #ff5454;
   font-size: 1.5em;
   font-weight: bold;

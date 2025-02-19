@@ -41,7 +41,7 @@ background-repeat: space repeat;
 
 ```css interactive-example
 #example-element {
-  background: #ccc url("/media/examples/moon.jpg") center / 120px;
+  background: #ccc url("/shared-assets/images/examples/moon.jpg") center / 120px;
   min-width: 100%;
   min-height: 100%;
 }

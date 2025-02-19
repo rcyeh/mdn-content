@@ -44,7 +44,8 @@ border-image-outset: 40px;
   background: #fff3d4;
   color: #000;
   border: 30px solid;
-  border-image: url("/media/examples/border-diamonds.png") 30 round;
+  border-image: url("/shared-assets/images/examples/border-diamonds.png") 30
+    round;
   font-size: 1.2em;
 }
 ```

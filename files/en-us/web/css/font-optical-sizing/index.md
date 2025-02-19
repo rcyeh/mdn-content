@@ -33,7 +33,7 @@ font-optical-sizing: none;
 
 ```css interactive-example
 @font-face {
-  src: url("/media/fonts/AmstelvarAlpha-VF.ttf");
+  src: url("/shared-assets/fonts/AmstelvarAlpha-VF.ttf");
   font-family: Amstelvar;
   font-style: normal;
 }
